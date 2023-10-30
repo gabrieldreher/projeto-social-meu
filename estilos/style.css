@@ -32,11 +32,8 @@ iframe#tela {
 }
 
 section#redes {
-    position: absolute;
+    padding-top: 250px;
     text-align: right;
-    top: 250px;
-    left: 85%;
-
 }
 
 section#redes img {
